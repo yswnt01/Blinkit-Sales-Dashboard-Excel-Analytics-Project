@@ -74,14 +74,14 @@ Get a clear view of item ratings and their correlation with sales numbers.
 5. Explore visual insights instantly!
 
 ---
+ 
+## 💡 Project Takeaways  
+Showcases how Excel alone can serve as a powerful BI tool.  
+Demonstrates data cleaning, analysis, and visualization within a single workflow.  
+Highlights the importance of interactive dashboards for business decision-making.  
 
-💡 Project Takeaways
-Showcases how Excel alone can serve as a powerful BI tool.
-Demonstrates data cleaning, analysis, and visualization within a single workflow.
-Highlights the importance of interactive dashboards for business decision-making.
+---
 
 
-
-
-👨‍💻 Author
+👨‍💻 Author  
 **Yashwant Gupta**
