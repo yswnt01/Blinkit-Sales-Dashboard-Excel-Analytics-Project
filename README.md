@@ -1,0 +1,2 @@
+# Blinkit-Sales-Dashboard-Excel-Analytics-Project
+Project: Blinkit Sales Dashboard (Excel) Designed an interactive Sales Dashboard in Excel to analyze Blinkit’s sales performance using Power Query, Pivot Tables, Formulas, Charts, and Slicers. The dashboard highlights key insights like year-wise sales trends, and product category analysis, helping to turn raw data into actionable business insights.
